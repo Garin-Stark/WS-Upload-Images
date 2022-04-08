@@ -1,3 +1,6 @@
+#6D/19090146/GarinIrsyadChoriri
+#6B/19090085/NurulArifiahGunarsih
+#--API UPLOADS IMAGES--
 import os,datetime
 import urllib.request
 from flask import Flask, request, redirect, jsonify
